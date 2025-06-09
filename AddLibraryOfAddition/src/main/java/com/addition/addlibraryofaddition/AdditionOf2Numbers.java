@@ -5,7 +5,7 @@ public class AdditionOf2Numbers {
     public Double additionHappens(double amount1, double amount2){
 
 
-        //AAAAAAAAAAAAAa
+        //AAAAbb
 
 
 
